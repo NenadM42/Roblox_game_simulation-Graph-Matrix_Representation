@@ -1,0 +1,9 @@
+﻿  Source.c
+c:\users\nenad\source\repos\asp\asp\source.c(732): warning C4013: 'calloc' undefined; assuming extern returning int
+c:\users\nenad\source\repos\asp\asp\source.c(732): warning C4047: '=': 'int **' differs in levels of indirection from 'int'
+c:\users\nenad\source\repos\asp\asp\source.c(740): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+c:\users\nenad\source\repos\asp\asp\source.c(767): warning C4013: 'realloc' undefined; assuming extern returning int
+c:\users\nenad\source\repos\asp\asp\source.c(767): warning C4047: '=': 'int **' differs in levels of indirection from 'int'
+c:\users\nenad\source\repos\asp\asp\source.c(893): warning C4047: '=': 'char **' differs in levels of indirection from 'int'
+c:\users\nenad\source\repos\asp\asp\source.c(896): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+  ASP.vcxproj -> C:\Users\nenad\source\repos\ASP\Debug\ASP.exe
